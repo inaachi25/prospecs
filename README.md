@@ -19,9 +19,8 @@ This disconnect between individual potential and job market demands signals a br
 3. Limited Access to Information: Essential information about opportunities, requirements, or processes is often hard to find or unavailable.
 
 ## The HOW
-<video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
+See video in the assets!!
+
 - Skill Assessment: Assist job seekers in self-assessing their abilities to align their skills with potential job opportunities.
 - Personalized Job Listings: Offer personalized job recommendations tailored to the individual's unique skills, background, and preferences.
 - Instant Application Process: Simplify the job application process by enabling users to directly apply for jobs within the platform, enhancing efficiency and convenience.
