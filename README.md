@@ -27,6 +27,7 @@ This disconnect between individual potential and job market demands signals a br
 - Customizable Profiles: Option to create a detailed professional profile with work experience, skills, and education
 
 ## Target Market
+| <img src="/assets/5.png"  width="600" height="300"> | - |
 
 ## What would I have done differently
 
