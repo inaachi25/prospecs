@@ -19,6 +19,9 @@ This disconnect between individual potential and job market demands signals a br
 3. Limited Access to Information: Essential information about opportunities, requirements, or processes is often hard to find or unavailable.
 
 ## The HOW
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
 - Skill Assessment: Assist job seekers in self-assessing their abilities to align their skills with potential job opportunities.
 - Personalized Job Listings: Offer personalized job recommendations tailored to the individual's unique skills, background, and preferences.
 - Instant Application Process: Simplify the job application process by enabling users to directly apply for jobs within the platform, enhancing efficiency and convenience.
@@ -27,7 +30,8 @@ This disconnect between individual potential and job market demands signals a br
 - Customizable Profiles: Option to create a detailed professional profile with work experience, skills, and education
 
 ## Target Market
-| <img src="/assets/12.png"  width="600" height="300"> |  <img src="/assets/13.png"  width="600" height="300"> |
+<img src="/assets/12.png"  width="600" height="300">
+<img src="/assets/13.png"  width="600" height="300"> 
 
 ## What would I have done differently
 This project was actually a little bit of personal to me because it played a significant role before I entered college. I was that kid snooping around the internet, trying to find ways to upskill or learn new things. I was always curious about what I could do with my skills, and I wanted to find a platform that could help me explore different career paths.
