@@ -27,8 +27,17 @@ This disconnect between individual potential and job market demands signals a br
 - Customizable Profiles: Option to create a detailed professional profile with work experience, skills, and education
 
 ## Target Market
-| <img src="/assets/5.png"  width="600" height="300"> | - |
+| <img src="/assets/12.png"  width="600" height="300"> |  <img src="/assets/13.png"  width="600" height="300"> |
 
 ## What would I have done differently
+This project was actually a little bit of personal to me because it played a significant role before I entered college. I was that kid snooping around the internet, trying to find ways to upskill or learn new things. I was always curious about what I could do with my skills, and I wanted to find a platform that could help me explore different career paths.
+
+I garnered a lot of job opportunity platforms worldwide in my Notion workspace and I thought, during the development of this project, why not pick an industry or field that I really know and understand. Prospecs was born. Overall, the project met the requirements of our professor. The project was presented well and was able to win second place during the design demo programme of my university.
+
+Additionally, this is my first ever UI project that I was forced to learn Figma and do the project in one sitting @1am with no electricity due to a typhoon. Plus, the presentation is on the next day. I was able to finish it and present it well, but I know that there are still a lot of things that I can improve on.
+
+I learned that I can do a lot of things if I put my mind to it. I also learned that I can be creative and think
 
 ## Learnings
+PLANNING. PLANNING. PLANNING. Planning saves time in the execution of the project. Make your wireframes. Assess not only the design but with the functionality in the user perspective.
+
